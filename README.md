@@ -1,6 +1,6 @@
 # stackoverflow
 
-## Takip ettiiğimiz aşamalar
+## Takip Ettiiğimiz Aşamalar
 A simple version of stackoverflow
 
 1. Ortamı kurmak
