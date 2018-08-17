@@ -1,4 +1,6 @@
 # stackoverflow
+
+## Takip ettiiğimiz aşamalar
 A simple version of stackoverflow
 
 1. Ortamı kurmak
@@ -25,3 +27,6 @@ django-admin startproject stackoverflow
 ```
 ./manage.py runserver
 ```
+
+## Kaynaklar
+`https://docs.djangoproject.com/en/2.1/intro/tutorial01/`
