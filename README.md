@@ -27,6 +27,9 @@ django-admin startproject stackoverflow
 ```
 ./manage.py runserver
 ```
+```
+./manage.py startapp sorular
+```
 
 ## Kaynaklar
 - Django'nun kendi başlangıç dersi
