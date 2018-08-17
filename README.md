@@ -29,4 +29,5 @@ django-admin startproject stackoverflow
 ```
 
 ## Kaynaklar
+- Django'nun kendi başlangıç dersi
 `https://docs.djangoproject.com/en/2.1/intro/tutorial01/`
